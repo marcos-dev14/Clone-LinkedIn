@@ -62,17 +62,21 @@ const iconCss = css`
 
 export const CameraIcon = styled(AiOutlineCamera)`
   ${iconCss}
+  color: #33aada;
 `;
 
 export const VideoCameraIcon = styled(AiOutlineVideoCamera)`
   ${iconCss}
+  color: #9896f2;
 `;
 
 export const DocumentIcon = styled(AiOutlineFileText)`
   ${iconCss}
+  color: #17afb8;
 `;
 
 export const ArticleIcon = styled(AiOutlineProfile)`
   ${iconCss}
+  color: #ef7e37;
 `;
 
